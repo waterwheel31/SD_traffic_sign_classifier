@@ -23,6 +23,7 @@
 
 - Preprocessed with grayscaling and normalization ([0-255] -> [0.0-1.0])
 - Evaluated using cross entropy and used Tensorflow
+- Among 50 K samples, used 35 K samples for training, and 4.4 K samples for validation (other 12.6 K are not used)
 
 ## Results 
 - With validate dataset, the accuracy reached 93%
