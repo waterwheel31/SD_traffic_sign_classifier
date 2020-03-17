@@ -32,12 +32,13 @@
 
 - The caption suggest top 5 results of the classification. Left is the class with most probable (the accuracy mentioned is based on the left one)
 
-![image](/results/result1.png)
-![image](/results/result2.png)
-![image](/results/result3.png)
-![image](/results/result4.png)
-![image](/results/result5.png)
-
+<p align="center">
+    <img src="results/result1.png" height="200"> <br>
+    <img src="results/result2.png" height="200"> <br>
+    <img src="results/result3.png" height="200"> <br>
+    <img src="results/result4.png" height="200"> <br>
+    <img src="results/result5.png" height="200"> <br>
+</p>
 
 ## Note
 - The result is accurate when the image is rightly cropped. When the cropping is not appropriate (for example, not located in the center or there is too much blank space), the accuracy became low. 
