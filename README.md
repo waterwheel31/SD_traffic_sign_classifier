@@ -51,8 +51,9 @@
 - The caption suggest top 5 results of the classification. Left is the class with most probable (the accuracy mentioned is based on the left one)
 
 <p align="center">
-    <img src="results/result1.png" height="200"> <br>
-    
+<img src="results/result1.png" height="200"> <br>
+</p>    
+
 scores of each class
 - Right-of-way at the next intersection :	  1.0
 - Beware of ice/snow :	  1.22535e-08
@@ -61,34 +62,44 @@ scores of each class
 - General caution :	  1.25591e-13
 
 
-
+<p align="center">
 <img src="results/result2.png" height="200"> <br>
+</p>  
 
+scores of each class
 - Yield :	  1.0
 - No vehicles :	  7.89726e-09
 - Priority road :	  1.76288e-10
 - Turn right ahead :	  1.62565e-10
 - No passing :	  4.12032e-11
 
-
+<p align="center">
 <img src="results/result3.png" height="200"> <br>
+</p>  
 
+scores of each class
 - Speed limit (60km/h) :	  0.569374
 - Speed limit (80km/h) :	  0.0882857
 - Dangerous curve to the right :	  0.0839292
 - Ahead only :	  0.0716644
 - Vehicles over 3.5 metric tons prohibited :	  0.0647315
    
+<p align="center">
 <img src="results/result4.png" height="200"> <br>
+</p>  
 
+scores of each class
 - Ahead only :	  1.0
 - Turn left ahead :	  2.54822e-07
 - Go straight or right :	  1.52265e-07
 - Keep right :	  2.96871e-09
 - Dangerous curve to the right :	  1.14092e-10
    
+<p align="center">
 <img src="results/result5.png" height="200"> <br>
+</p>  
 
+scores of each class
 - No entry :	  1.0
 - Roundabout mandatory :	  4.16193e-11
 - Traffic signals :	  4.32302e-15
